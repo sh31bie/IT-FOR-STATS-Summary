@@ -56,3 +56,4 @@ Connectivity - can connect to other networks or computers to share/receive data.
 
 TOPIC 2 : FUNDAMENTALS OF COMPUTER OPERATIONS.
 Computers work by following set instructions given to it telling it what to do and how to do it.
+CPU: Central Processing Unit - it is the thinking
